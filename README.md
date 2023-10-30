@@ -3,8 +3,8 @@
 I’m Christian Bernardu and I am a prospectus Computer Science scholar at Stellenbosch University in 2024
 
 # Technologies and Tools 🛠️
-<img src="https://github.com/cbernardu/cbernardu/assets/144592185/8f26fe4d-1a55-4cd6-88b1-7f4570156ad4" width="10%" height="10%">
-![mysql](https://github.com/cbernardu/cbernardu/blob/main/assets/mysql-color.svg) ![python](https://github.com/cbernardu/cbernardu/blob/main/assets/python-color.svg)
+<img src="https://github.com/cbernardu/cbernardu/assets/144592185/8f26fe4d-1a55-4cd6-88b1-7f4570156ad4" width="5%" height="5%">
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
