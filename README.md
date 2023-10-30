@@ -1,5 +1,6 @@
 ![banner](https://github.com/cbernardu/cbernardu/blob/main/assets/github-header-image.png)
 - 👋 Hi, I’m Christian Bernardu
+
 #Technologies and Tools
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
