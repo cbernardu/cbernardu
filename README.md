@@ -1,7 +1,8 @@
 ![banner](https://github.com/cbernardu/cbernardu/blob/main/assets/github-header-image.png)
-- 👋 Hi, I’m Christian Bernardu
+# Who Am I? 🤔
+I’m Christian Bernardu and I am a prospectus Computer Science scholar at Stellenbosch University in 2024
 
-# Technologies and Tools
+# Technologies and Tools 🛠️
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
