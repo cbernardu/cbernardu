@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Currently exploring Python and its capabilities.
 - 🎓 &nbsp; Studying Computer Science and at Stellenbosch University.
-- ✍️ &nbsp; Pursuing Game Development as a hobby/side hustle.
+- ✍️ &nbsp; Pursuing AI with Python as a hobby/side hustle.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
